@@ -1,0 +1,10 @@
+{
+  "name": "Nairobi Business Lead Research Dashboard",
+  "description": "Compliant B2B lead research and qualification dashboard for Nairobi-area companies with Google Maps places discovery, public contact verification, source attribution, and qualification intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
